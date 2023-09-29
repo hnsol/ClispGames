@@ -1,4 +1,6 @@
 # ClispGames
 A showcase of games crafted using ABA games' clisp-game-lib.
 
-(2023-09-30 07:40)
+## games list
+
+http://hnsol.github.io/ClispGames/?hello
