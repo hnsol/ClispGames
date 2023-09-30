@@ -30,12 +30,12 @@ llll
  l  l
 `,
   `
-  ll
-l l l
- lll
-  l
- l ll
-l  
+   l
+l lll
+l lll
+l ll l
+lllll
+ l
 `,
   `
   ll
