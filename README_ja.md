@@ -1,6 +1,6 @@
 [English](https://github.com/hnsol/CrispGames/blob/main/README.md) | 日本語
 
-# クリスプ・ゲームズ
+# さくさくゲーム集
 
 [ABA games](http://www.asahi-net.or.jp/~cs8k-cyu/)の[crisp-game-lib](https://github.com/abagames/crisp-game-lib)を使用したミニゲーム集です。
 
