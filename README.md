@@ -1,8 +1,5 @@
 English | [日本語](https://github.com/hnsol/ClispGames/blob/main/README_ja.md)
 
-もちろん、以下があなたのテキストの英語訳です。
-
----
 
 # ClispGames
 
