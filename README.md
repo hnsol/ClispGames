@@ -1,15 +1,15 @@
-English | [日本語](https://github.com/hnsol/ClispGames/blob/main/README_ja.md)
+English | [日本語](https://github.com/hnsol/CrispGames/blob/main/README_ja.md)
 
 
-# ClispGames
+# CrispGames
 
-This is a collection of mini-games, created using the [clisp-game-lib](https://github.com/abagames/crisp-game-lib) developed by [ABA games](http://www.asahi-net.or.jp/~cs8k-cyu/).
+This is a collection of mini-games, created using the [crisp-game-lib](https://github.com/abagames/crisp-game-lib) developed by [ABA games](http://www.asahi-net.or.jp/~cs8k-cyu/).
 
 ## Collection
 
-[Tears of Kanagan](http://hnsol.github.io/ClispGames/?tearsofkanagan)
+[Tears of Kanagan](http://hnsol.github.io/CrispGames/?tearsofkanagan)
 
-<a href="http://hnsol.github.io/ClispGames/?tearsofkanagan"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=80%></a>
+<a href="http://hnsol.github.io/CrispGames/?tearsofkanagan"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=80%></a>
 
 **Gather the Tears of Kanagan and Save Your Friends!**
 
@@ -17,7 +17,7 @@ This is a collection of mini-games, created using the [clisp-game-lib](https://g
 
 
 
-[Pin Climb](http://hnsol.github.io/ClispGames/?pinclimb)
+[Pin Climb](http://hnsol.github.io/CrispGames/?pinclimb)
 
-<a href="http://hnsol.github.io/ClispGames/?pinclimb"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930091433.png" width="25%" loading="lazy"></a>
+<a href="http://hnsol.github.io/CrispGames/?pinclimb"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930091433.png" width="25%" loading="lazy"></a>
 
