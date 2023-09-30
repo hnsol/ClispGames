@@ -1,4 +1,4 @@
-English | [日本語](https://github.com/hnsol/CrispGames/blob/master/README_ja.md)
+English | [日本語](https://github.com/hnsol/CrispGames/blob/main/README_ja.md)
 
 # ClispGames
 
