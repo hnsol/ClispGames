@@ -1,6 +1,6 @@
 # ClispGames
 
-A showcase of games crafted using ABA games' clisp-game-lib.
+Exploring game development with sample codes and tests. Utilizing [clisp-game-lib](https://github.com/abagames/crisp-game-lib) from [ABA games](http://www.asahi-net.or.jp/~cs8k-cyu/).
 
 
 ## games list
