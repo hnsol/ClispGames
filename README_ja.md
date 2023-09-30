@@ -7,7 +7,7 @@
 
 ## コレクション
 
-[Tears of Kanagan](http://hnsol.github.io/ClispGames/?tearsofkanagan)
+[ティアーズ・オブ・カナガン](http://hnsol.github.io/ClispGames/?tearsofkanagan)
 
 <a href="http://hnsol.github.io/ClispGames/?tearsofkanagan"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=100%></a>
 
