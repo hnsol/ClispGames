@@ -1,4 +1,4 @@
-title = "REBIRTH";
+title = "Tears of Kanagan";
 
 description = `
 [Tap] Jump / Land
@@ -6,15 +6,14 @@ description = `
 
 characters = [
   `
- ll
-lll l
-lll ll
-lll ll
-llllll
- l  l
+l lll
+l llll
+l llll
+l llll
+l lll
 `,
   `
-ll
+l
 l   l
 l  lll
 l  lll
@@ -26,37 +25,38 @@ l
 l  l
 l lll
 l lll
-llll
+ lll
  l  l
 `,
   `
+
    l
 l lll
 l lll
-l ll l
-lllll
+llll l
  l
 `,
   `
-  ll
-  l 
- lll
-l l l
- l ll
-ll  l
-`,
-  `
-  ll
- l 
-ll
-l l 
+
+l  l
+l lll
+l lll
+llll
  l l
-  l l
 `,
   `
- llll
-ll  ll
-l ll l
+
+l l
+l lll
+l lll
+lll
+ l ll
+`,
+  `
+  
+  ll
+ l  l
+ l ll
  llll
   ll
 `,
@@ -68,7 +68,13 @@ options = {
   isPlayingBgm: true,
   isReplayEnabled: true,
   isDrawingScoreFront: true,
-  seed: 2000,
+  // seed: 2004,
+  // seed: 2007,
+  // seed: 2009,
+  // seed: 2011,
+  // seed: 2020,
+  // seed: 2021,
+  seed: 2022,
 };
 
 /** @type {{x: number, vx: number, world: -1 | 1}[]} */
@@ -188,11 +194,14 @@ function update() {
   }
   remove(dias, (d) => {
     d.pos.x += d.vx;
-    color("yellow");
+    color("light_yellow");
     const c = char("g", d.pos, { mirror: { x: d.world > 0 ? -1 : 1 } })
       .isColliding.char;
     if (c.b || c.c || c.d || c.e || c.f) {
       play("coin");
+      // play("lucky");
+      // play("synth");
+      // play("powerUp");
       addScore(multiplier, d.pos);
       multiplier++;
       return true;
