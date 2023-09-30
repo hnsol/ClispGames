@@ -13,9 +13,9 @@ This is a collection of mini-games, created using the [crisp-game-lib](https://g
 
 **Gather the Tears of Kanagan and Save Your Friends!**
 
-> Three close-knit cats, Hann-chan, Solo, and Nanachi, have stumbled into the alternate world of Kanagan. In order to save Hann-chan, who has become immobilized by fear, Solo (the brother) and Nanachi (the best friend) embark on an adventure seeking a miracle! Set in two distinct worlds, "The Grey World" and "The Black World," the duo strives to collect the Tears of Kanagan and wrestle their friend from peril. Overcome the challenges encountered in each world with courageous jump actions! Hann-chan’s safety hangs in the balance... There’s no time to lose!
+> Three close-knit cats, Hann-chan, Solo, and Nanachi, have stumbled into the alternate world of Kanagan. To save Hann-chan, paralyzed by fear, Solo (the brother, a black cat) and Nanachi (the best friend, a white cat) embark on an adventure in search of a miracle! Set across two distinct realms - "The Grey World" and "The Black World," the duo endeavors to collect the Tears of Kanagan and rescue their friend from peril. Overcome the challenges encountered in each world with brave jump actions! Hann-chan’s safety hangs in the balance... There’s no time to lose!
 
-
+---
 
 [Pin Climb](http://hnsol.github.io/CrispGames/?pinclimb)
 
