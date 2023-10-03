@@ -140,11 +140,12 @@ function update() {
     if (input.isJustPressed) {
       play("jump");
       player.state = "jump";
-      player.vel.y = -2 * sqrt(difficulty);
+      // player.vel.y = -2 * sqrt(difficulty);
+      player.vel.y = -2 * sqrt(difficulty) * sqrt(balance);
     }
     pc = addWithCharCode("b", floor(ticks / 10) % 2);
   } else if (player.state === "jump") {
-    player.vel.y += (input.isPressed ? 0.07 : 0.14) * difficulty;
+    player.vel.y += (input.isPressed ? 0.07 : 0.14) * difficulty * balance;
     if (player.pos.y > 37) {
       player.pos.y = 37;
       player.vel.y = 0;
@@ -173,7 +174,7 @@ function update() {
   if (c.a && abs(player.vel.x) < 2) {
     play("hit");
     player.vel.x =
-      (player.world > 0 ? -1 : 1) * player.ox * 0.2 * sqrt(difficulty) * balance;
+      (player.world > 0 ? -1 : 1) * player.ox * 0.2 * sqrt(difficulty);
     player.world = player.world > 0 ? -1 : 1;
     player.ox = 10;
     if (multiplier > 1) {
