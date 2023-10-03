@@ -68,18 +68,10 @@ options = {
   isPlayingBgm: true,
   isReplayEnabled: true,
   isDrawingScoreFront: true,
-  // seed: 2004,
-  // seed: 2007,
-  // seed: 2009,
-  // seed: 2011,
-  // seed: 2020,
-  // seed: 2021,
-  // seed: 2022,
-  // seed: 1993,
-  // seed: 1989,
-  // seed: 1984,
-  seed: 1983,
-  // seed: 1974,
+  // seed: 2000,
+  // seed: 1994, x
+  seed: 1989,
+  // seed: 1986,
 };
 
 /** @type {{x: number, vx: number, world: -1 | 1}[]} */
