@@ -1,4 +1,4 @@
-title = "Tears of Kanagan";
+title = "Tears of the Kanagan";
 
 description = `
 [Tap] Jump / Land

@@ -7,7 +7,7 @@ This is a collection of mini-games, created using the [crisp-game-lib](https://g
 
 ## Collection
 
-[Tears of Kanagan(Easy ver.)](http://hnsol.github.io/CrispGames/?tok_easy)
+[Tears of the Kanagan(Easy ver.)](http://hnsol.github.io/CrispGames/?tok_easy)
 
 <a href="http://hnsol.github.io/CrispGames/?tok_easy"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=80%></a>
 
@@ -16,7 +16,7 @@ This is a collection of mini-games, created using the [crisp-game-lib](https://g
 > Three close-knit cats, Hann-chan, Solo, and Nanachi, have stumbled into the alternate world of Kanagan. To save Hann-chan, paralyzed by fear, Solo (the brother, a black cat) and Nanachi (the best friend, a white cat) embark on an adventure in search of a miracle! Set across two distinct realms - "The Grey World" and "The Black World," the duo endeavors to collect the Tears of Kanagan and rescue their friend from peril. Overcome the challenges encountered in each world with brave jump actions! Hann-chan’s safety hangs in the balance... There’s no time to lose!
 
 
-[Tears of Kanagan(Normal ver.)](http://hnsol.github.io/CrispGames/?tearsofkanagan)
+[Tears of the Kanagan(Normal ver.)](http://hnsol.github.io/CrispGames/?tearsofkanagan)
 
 <a href="http://hnsol.github.io/CrispGames/?tearsofkanagan"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=80%></a>
 
