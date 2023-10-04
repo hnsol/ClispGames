@@ -9,7 +9,7 @@ This is a collection of mini-games, created using the [crisp-game-lib](https://g
 
 [Tears of the Kanagan(Easy ver.)](http://hnsol.github.io/CrispGames/?tok_easy)
 
-<a href="http://hnsol.github.io/CrispGames/?tok_easy"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=80%></a>
+<a href="http://hnsol.github.io/CrispGames/?tearsofkanagan"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20231004/20231004161926.gif" width=80%></a>
 
 **Gather the Tears of Kanagan and Save Your Friends!**
 
@@ -18,7 +18,7 @@ This is a collection of mini-games, created using the [crisp-game-lib](https://g
 
 [Tears of the Kanagan(Normal ver.)](http://hnsol.github.io/CrispGames/?tearsofkanagan)
 
-<a href="http://hnsol.github.io/CrispGames/?tearsofkanagan"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20231004/20231004161926.gif" width=80%></a>
+<a href="http://hnsol.github.io/CrispGames/?tok_easy"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=80%></a>
 
 ---
 
