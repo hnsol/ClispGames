@@ -9,7 +9,8 @@
 
 [ティアーズ・オブ・ザ・カナガン（Easy版）](http://hnsol.github.io/CrispGames/?tok_easy)
 
-<a href="http://hnsol.github.io/CrispGames/?tok_easy"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20230930/20230930230557.png" width=100%></a>
+<a href="http://hnsol.github.io/CrispGames/?tok_easy"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/masatora_bd5/20231004/20231004161926.gif" width=100%></a>
+
 
 **カナガンの涙を集め、仲間を救い出せ！**
 

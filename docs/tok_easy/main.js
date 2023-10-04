@@ -68,6 +68,9 @@ options = {
   isPlayingBgm: true,
   isReplayEnabled: true,
   isDrawingScoreFront: true,
+  // isCapturing: true,
+  // isCapturingGameCanvasOnly: true,
+  // captureCanvasScale: 2,
   // seed: 2000,
   // seed: 1994, x
   seed: 1989,
